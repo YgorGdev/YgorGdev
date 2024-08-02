@@ -30,15 +30,14 @@
 
 ### Databases:
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
-![noSQL](https://img.shields.io/badge/noSQL-00000F?style=for-the-badge&logo=nosql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps:
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LucasFonseca0&show_icons=true&theme=dark&border_color=FFA500&icon_color=FFA500&title_color=FFA500)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucasFonseca0&theme=dark&hide_border=false&border_color=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFonseca0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=FFA500&title_color=FFA500)
+![](https://github-readme-stats.vercel.app/api?username=YgorGdev&show_icons=true&theme=dark&border_color=FFA500&icon_color=FFA500&title_color=FFA500)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YgorGdev&theme=dark&hide_border=false&border_color=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorGdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=FFA500&title_color=FFA500)
