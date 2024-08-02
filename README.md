@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px;">
 </a>
 <a href="https://instagram.com/_ygukkj" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" style="height: 28px;">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=vercel&logoColor=white" style="height: 28px;">
 </a>
 
 # 💻 Tech Stack:
@@ -17,7 +17,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ### Frameworks and Runtimes:
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -41,3 +40,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=YgorGdev&show_icons=true&theme=dark&border_color=FFA500&icon_color=FFA500&title_color=FFA500)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YgorGdev&theme=dark&hide_border=false&border_color=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorGdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=FFA500&title_color=FFA500)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
