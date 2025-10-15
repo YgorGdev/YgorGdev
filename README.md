@@ -11,11 +11,6 @@
       Hi there! I'm <b>Ygor</b> 🐈‍⬛
   </samp>
 </div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7db0ff&width=900&size=22&center=true&lines=Sou+do+Brasil;Analista+de+Sistemas+Júnior+na+CAOA;Desenvolvedor+Full+Stack+e+PJ+em+projetos+tecnológicos;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
-</div>
-
 <br>
 
 <div align="center">
