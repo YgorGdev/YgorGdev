@@ -7,12 +7,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ygor.dev-7db0ff?style=for-the-badge&logo=github&logoColor=fff" />
-</div>
-
-<br>
-
 ---
 
 ### Sobre mim
