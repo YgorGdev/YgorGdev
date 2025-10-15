@@ -60,8 +60,8 @@ Minha *stack* é robusta e abrangente, cobrindo o ciclo completo de desenvolvime
 
 <div align="center">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=vue" alt="Linguagens mais usadas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YgorGdev&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorrocha757@gmail.com&layout=compact&langs_count=7&theme=vue" alt="Linguagens mais usadas"/>
 
 </div>
 
