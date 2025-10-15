@@ -56,14 +56,6 @@
   <br>
 
   <div align="center">
-    <samp><b>Contate-me:</b></samp>
-    <br><br>
-    [![GitHub](https://img.shields.io/badge/GitHub-7db0ff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/YgorGdev)
-    [![Instagram](https://img.shields.io/badge/Instagram-7db0ff?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_ygukkj)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-7db0ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ygor-gomes-6a9898267/)
-  </div>
-
-  <div align="center">
     <p align="center">
       <samp>
         ♡ <a href="https://github.com/YgorGdev">GitHub</a> ⊹
