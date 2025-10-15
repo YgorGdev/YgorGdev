@@ -1,7 +1,3 @@
-<br>
-<br>
-<br>
-
 <div align="center">
   <samp>
     <br>
