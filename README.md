@@ -2,12 +2,9 @@
 <br>
 <br>
 
-<div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/gjB6RrQ.png" alt="Gato preto tomando café" />
-</div>
+
 
 <div align="center">
-  <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
       Olá! Eu sou o <b>Ygor</b> ☕  
