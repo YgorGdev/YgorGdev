@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🍃 Olá! Bem-vindo(a) ao Meu Perfil GitHub 💚
+  # Bem-vindo(a) ao Meu Perfil GitHub 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=33CC33&center=true&vCenter=true&width=400&lines=Desenvolvedor+Full-Stack;Especialista+.NET+e+Cloud;Apaixonado+por+Automação)](https://git.io/typing-svg)
 
