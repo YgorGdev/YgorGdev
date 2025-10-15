@@ -2,8 +2,6 @@
 <br>
 <br>
 
-
-
 <div align="center">
   <samp>
       <br>
@@ -35,29 +33,28 @@
 <br>
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YgorGdev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=10"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorGdev&layout=compact&langs_count=10&theme=tokyonight&border_radius=10"/>
-  <br><br>
-  <img align="center" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorGdev&theme=tokyonight"/>
+  <!-- GitHub Stats - usando vercel oficial -->
+  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YgorGdev&show_icons=true&count_private=true&theme=tokyonight&border_radius=10"/>
+  <img height="180" align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorGdev&layout=compact&langs_count=10&theme=tokyonight&border_radius=10"/>
 </div>
 
 <br>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <!-- Icons hospedados no GitHub (baixados do Devicons) -->
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-plain.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-plain.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 </div>
-
 
 <br>
 <br>
@@ -68,8 +65,6 @@
   </summary>
   
 <br>
-
-##
 
 <div align="center">
   <samp><b>Contate-me:</b></samp>
@@ -92,12 +87,11 @@
 
 </details>
 
-##
-
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=YgorGdev&abbreviated=true&style=flat-square&color=7db0ff" /></p> 
+  <!-- Contador de visitas substituído por shields.io -->
+  <img align="center" src="https://img.shields.io/badge/visitas-∞-7db0ff?style=flat-square" />
 </div>
 
 <br>
