@@ -1,50 +1,54 @@
 <div align="center">
   
-  # Bem-vindo(a) ao Meu Perfil GitHub 
+  # 🌊 Bem-vindo(a) ao Meu Perfil GitHub 💙
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=33CC33&center=true&vCenter=true&width=400&lines=Desenvolvedor+Full-Stack;Especialista+.NET+e+Cloud;Apaixonado+por+Automação)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=007ACC&center=true&vCenter=true&width=400&lines=Desenvolvedor+Full-Stack;Especialista+Cloud+%2F+.NET;Pronto+para+o+Próximo+Desafio.)](https://git.io/typing-svg)
 
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" alt="Bulbasaur, um Pokémon fofo" width="100" style="margin-top: 15px; margin-bottom: 15px;">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" alt="Squirtle, um Pokémon azul fofo" width="100" style="margin-top: 15px; margin-bottom: 15px;">
   
   ---
   
 </div>
 
-## 💡 Insights & Foco Profissional
+## 💡 Foco e Visão Profissional
 
-Sou um desenvolvedor Full-Stack com foco na construção de aplicações escaláveis e performáticas. Minha paixão é transformar requisitos complexos em soluções eficientes, utilizando o ecossistema **.NET** e a infraestrutura **Cloud**.
+Sou um desenvolvedor Full-Stack focado em arquiteturas robustas e escaláveis. Minha paixão reside na otimização de sistemas, combinando performance Back-end e experiência de usuário Front-end, com forte base em **Cloud (Azure/AWS)**.
 
-* **Qualidade do Código:** Priorizo a escrita de código limpo, testável e de fácil manutenção.
-* **DevOps/Cloud:** Experiência em implementação e gerenciamento de aplicações em **Azure** e **AWS**, garantindo CI/CD robusto.
-* **Visão Computacional & Automação:** Aplico **Python** com **OpenCV** e **Selenium** para criar soluções inovadoras de processamento de imagem e automação de tarefas.
+- **DevOps/Infra:** Forte atuação em CI/CD e gerenciamento de infraestrutura em nuvem.
+- **Ecossistemas Versáteis:** Proficiência nos ecossistemas **.NET**, **JavaScript/TypeScript** e **Go/Java**.
+- **Automação:** Experiência em automação de processos, GUI (**tkinker**), testes (**Selenium**) e visão computacional (**OpenCV**).
 
 <br>
 
-## 🛠️ Minhas Principais Stacks & Ferramentas
+## 🛠️ Stacks Tecnológicas
 
-Minha *stack* é robusta e abrangente, cobrindo o ciclo completo de desenvolvimento.
+Minha caixa de ferramentas é diversificada, permitindo a escolha da melhor tecnologia para o problema.
 
 <div align="center">
 
-  ### ⚙️ Back-end, Linguagens & Frameworks
+  ### ⚙️ Back-end & Linguagens (Principal)
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   
   <br>
 
-  ### 🌐 Front-end, Automação & Imagem
+  ### 🌐 Front-end & Automação
   
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![Tkinter](https://img.shields.io/badge/Tkinter-4286f4?style=for-the-badge&logo=python&logoColor=white&labelColor=2C2C2C)
   
   <br>
   
-  ### ☁️ Cloud, Banco de Dados & Armazenamento
+  ### ☁️ Cloud & Dados
   
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -60,8 +64,8 @@ Minha *stack* é robusta e abrangente, cobrindo o ciclo completo de desenvolvime
 
 <div align="center">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YgorGdev&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorrocha757@gmail.com&layout=compact&langs_count=7&theme=vue" alt="Linguagens mais usadas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=blue-green" alt="Linguagens mais usadas"/>
 
 </div>
 
@@ -71,8 +75,6 @@ Minha *stack* é robusta e abrangente, cobrindo o ciclo completo de desenvolvime
 
 ## 📬 Conecte-se Comigo!
 
-Estou sempre aberto a novas conexões e oportunidades.
-
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [Seu Perfil do LinkedIn](Link-para-o-seu-LinkedIn) 🔗 |
@@ -80,5 +82,5 @@ Estou sempre aberto a novas conexões e oportunidades.
 
 ***
 <div align="center">
-  Feito com 💚 e 💻 por [@SEU_USERNAME](https://github.com/SEU_USERNAME)
+  Construindo o futuro. Feito com 💙 por [@SEU_USERNAME](https://github.com/SEU_USERNAME)
 </div>
