@@ -58,14 +58,6 @@
   <a href="https://www.linkedin.com/in/ygor-gomes-rocha-6a9898267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="mailto:ygorrocha757@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
-
-<p align="center">
-  <i>"Technology is only valuable when it solves real problems."</i>
-</p>
