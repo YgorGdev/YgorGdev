@@ -12,8 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer at **CAOA Montadora**  
-- 🚀 Founder of **Bygsoft** – tech solutions for Goiás  
+- 💼 Full Stack Developer at **CAOA Montadora**   
 - ⚙️ Focus on integrations, automation and critical systems  
 - 🎯 Clean architecture and real business impact  
 
