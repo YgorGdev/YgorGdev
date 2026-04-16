@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ygor Gomes 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • Systems Analyst • Problem Solver</strong>
+  <strong>Full Stack Developer Pleno • Systems Analyst • Problem Solver</strong>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ygor-gomes-rocha-6a9898267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ygorgomesrocha&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=YgorGDev&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 - ⚙️ Focus on integrations, automation and critical systems
 - 🎯 Clean architecture and real business impact
 - 🌍 International meetings with global stakeholders
-- 🚀 100+ improvements shipped to production systems
+- 🚀 1000+ improvements shipped to production systems
 
 ---
 
@@ -81,9 +81,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorgomesrocha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YgorGDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorgomesrocha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorGDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
