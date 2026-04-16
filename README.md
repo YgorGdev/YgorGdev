@@ -89,13 +89,13 @@
 
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=ygorgomesrocha&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=YgorGDev&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ygorgomesrocha&theme=tokyo-night&hide_border=true&area=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YgorGDev&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ygorgomesrocha&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YgorGDev&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
