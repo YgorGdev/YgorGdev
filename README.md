@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer at **CAOA Montadora**
+- 💼 Full Stack Developer Pleno at **CAOA Montadora**
 - ⚙️ Focus on integrations, automation and critical systems
 - 🎯 Clean architecture and real business impact
 - 🌍 International meetings with global stakeholders
