@@ -27,14 +27,6 @@ systems analyst pleno  •  tech lead  •  full-stack developer
 back-end oriented, driven by deep server-side engineering
 ```
 
-```
-CAOA Montadora — Anápolis, GO
-software engineering bachelor's @ UniEVANGÉLICA (Dec 2026)
-led migration of 6 000+ files  →  java + spring boot
-mentoring interns & junior devs
-1000+ improvements shipped to production
-```
-
 <br/>
 
 ---
