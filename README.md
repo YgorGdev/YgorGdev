@@ -3,7 +3,7 @@
 <br/>
 
 ```
-we conjure the spirits of the computer with our spells
+building the invisible infrastructure that keeps things running
 ```
 
 <br/>
